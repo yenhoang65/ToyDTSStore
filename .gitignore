@@ -1,0 +1,63 @@
+# Binaries
+bin/
+obj/
+*.dll
+*.exe
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Node.js modules
+node_modules/
+
+# Logs
+*.log
+
+# Visual Studio cache files
+.vscode/
+.vs/
+.vscode/*
+
+# Resharper
+_ReSharper*/
+*.ReSharper
+*.DotSettings.user
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Web and .NET generated files
+wwwroot/
+wwwroot/dist/
+wwwroot/images/
+appsettings*.json
+!appsettings.json.example # Để giữ lại file mẫu nếu cần
+
+# Publish output
+publish/
+out/
+
+# Dependency folders
+packages/
+tools/
+
+# Rider
+.idea/
+
+# OS generated files
+.DS_Store
+*.swp
+*.sln.docstates
